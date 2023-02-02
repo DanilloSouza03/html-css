@@ -1,0 +1,16 @@
+#img{
+    border-radius: 40%;
+}
+
+#body{
+    background-color: rgb(126, 126, 126);
+}
+
+abbr{
+    text-decoration: underline;
+}
+
+a{
+    color: #0000ff;
+    text-decoration: none;
+}
