@@ -24,7 +24,7 @@
 <li><a href="https://danillosouza03.github.io/html-css/exercicios/ex.019/seletor01.html" target="_blank">Abrir Exercício 019</a></li>
 <li><a href="https://danillosouza03.github.io/html-css/exercicios/ex.020/hover.html" target="_blank">Abrir Exercício 020</a></li>
 <li><a href="https://danillosouza03.github.io/html-css/exercicios/ex.021/caixa01.html" target="_blank">Abrir Exercício 021</a></li>
-<li><a href="https://danillosouza03.github.io/html-css/exercicios/ex.022/caixa01.html" target="_blank">Abrir Exercício 022</a></li>
+<li><a href="https://danillosouza03.github.io/html-css/exercicios/ex.022/" target="_blank">Abrir Exercício 022</a></li>
 
 ## Desafios
 
